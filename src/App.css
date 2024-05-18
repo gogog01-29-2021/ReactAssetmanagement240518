@@ -1,0 +1,26 @@
+/* App.css */
+
+.App {
+  text-align: center;
+  background-color: white; /* Change background color */
+  color: black; /* Change text color */
+}
+
+.App-header {
+  background-color: white; /* Change header background color */
+  padding: 20px;
+}
+
+h1 {
+  color: black; /* Change header text color */
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: blue;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
